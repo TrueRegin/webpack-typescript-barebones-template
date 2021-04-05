@@ -8,8 +8,9 @@ Webpack is all setup to go for development purposes.
 3. Install any frontend dependencies you want to use (jquery, ThreeJS, animeJS, etc...)
 
 ### Directory Structure
-`src`
+
 ```
+src
 --- main.ts - Main script for the project.
 --- styles
 ------- main.scss - Main styles for the project.
