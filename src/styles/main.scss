@@ -1,0 +1,17 @@
+html, body, #app {
+    width: 100%;
+    height: 100%;
+}
+
+html {
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    margin: 0;
+    background: #fac123;
+    color: #fff;
+    display: grid;
+    place-items: center;
+}
